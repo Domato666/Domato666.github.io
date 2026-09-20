@@ -19,7 +19,7 @@ redirect_from:
 
 孟琪焱
 
-生命坤坤学院 教授 博士生导师
+生命坤学学院 教授 博士生导师
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 研究领域包括：
@@ -34,8 +34,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/SYSU.png" width="20pt"></a> 中山大学 生命坤坤学院，广东广州，教授、杰青 
-- *2024.09 - 2025.06*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/SYSU.png" width="20pt"></a> 中山大学 生命坤坤学院，广东广州，本科、推免直博、博士后、副教授
+- *2025.09 - 至今*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/SYSU.png" width="20pt"></a> 中山大学 生命坤学学院，广东广州，教授、杰青 
+- *2024.09 - 2025.06*, <a href="https://www.sysu.edu.cn/"><img class="svg" src="/images/SYSU.png" width="20pt"></a> 中山大学 生命坤学学院，广东广州，本科、推免直博、博士后、副教授
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -50,7 +50,9 @@ redirect_from:
 [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 （以下内容尚未更新，请当没看到！）
+
 （以下内容尚未更新，请当没看到！）
+
 （以下内容尚未更新，请当没看到！）
 </div>
 </div>
